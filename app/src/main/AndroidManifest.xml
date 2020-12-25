@@ -13,9 +13,9 @@
             android:name=".AddService"
             android:enabled="true"
             android:exported="true">
-            <intent-filter>
+            <!--<intent-filter>
                 <action android:name="service.calc"/>
-            </intent-filter>
+            </intent-filter>-->
         </service>
 
         <activity android:name=".MainActivity">

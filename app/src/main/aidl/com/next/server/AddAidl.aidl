@@ -3,6 +3,6 @@ package com.next.server;
 
 
 interface AddAidl {
-    int add(int a, int b);
+    int add(int a, int b);//step2
 
 }
